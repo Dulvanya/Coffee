@@ -28,3 +28,8 @@ html{
 html::-webkit-scrollbar{
     width: .8rem;
 }
+
+html::-webkit-scrollbar-track{
+    background: transparent;
+}
+
