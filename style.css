@@ -90,4 +90,9 @@ body {
     position: absolute;
     top: 115%;
     right: 7%;
+    background: #fff;
+    width: 50rem;
+    height: 5rem;
+    display: flex;
+    align-items: center;
 }
