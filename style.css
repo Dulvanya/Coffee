@@ -72,5 +72,8 @@ body {
 }
 
 .header .icons a{
-    
+    color: #fff;
+    cursor: pointer;
+    font-size: 2.5rem;
+    margin-left: 2rem;
 }
