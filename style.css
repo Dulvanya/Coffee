@@ -114,5 +114,5 @@ body {
 }
 
 .header .search-form label:hover{
-    
+    color: :var(var(--main-color));
 }
