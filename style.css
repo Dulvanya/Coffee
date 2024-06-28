@@ -87,5 +87,7 @@ body {
 }
 
 .header .search-form{
-    
+    position: absolute;
+    top: 115%;
+    right: 7%;
 }
