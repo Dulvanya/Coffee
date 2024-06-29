@@ -152,5 +152,7 @@ body {
 }
 
 .header .cart-items-container .cart-items .content h3{
-    
+    font-size: 2rem;
+    color: var(--black);
+    padding-bottom: .5rem;
 }
