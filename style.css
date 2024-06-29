@@ -142,3 +142,7 @@ body {
     cursor: pointer;
     color: var(--black);
 }
+
+.header .cart-items-container .cart-items .fa-times:hover{
+    
+}
