@@ -88,13 +88,13 @@ body {
 
 .header .search-form{
     position: absolute;
-    top: 115%;
-    right: 7%;
+    top: 115%; right: 7%;
     background: #fff;
     width: 50rem;
     height: 5rem;
     display: flex;
     align-items: center;
+    transform: scaleY(0);
     transform-origin: top;
 }
 
@@ -114,6 +114,6 @@ body {
     color: var(--black);
 }
 
-.header .search-form label:hover{
+.header .search-form label :hover{
     color: var(--main-color);
 }
