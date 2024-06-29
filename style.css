@@ -136,5 +136,9 @@ body {
 }
 
 .header .cart-items-container .cart-items .fa-times{
-    
+    position: absolute;
+    top: 1rem; right: 1rem;
+    font-size: 2rem;
+    cursor: pointer;
+    color: var(--black);
 }
