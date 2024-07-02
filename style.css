@@ -43,6 +43,10 @@ body {
     background: var(--bg);
 }
 
+.btn{
+    
+}
+
 .header {
     background: var(--bg);
     display: flex;
