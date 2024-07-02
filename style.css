@@ -47,6 +47,7 @@ body {
     margin-top: 1rem;
     display: inline-block;
     padding: 9rem 3rem;
+    font-size: 1.7rem;
     color: #fff;
     background: var(--main-color);
     cursor: pointer;
@@ -173,4 +174,8 @@ letter-spacing: .2rem;
 .header .cart-items-container .cart-items .content .price{
     font-size: 1.5rem;
     color: var(--main-color);
+}
+
+.header .cart-items-container .btn{
+    
 }
