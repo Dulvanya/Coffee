@@ -46,7 +46,7 @@ body {
 .btn{
     margin-top: 1rem;
     display: inline-block;
-    padding: 7rem 3rem;
+    padding: 9rem 3rem;
     color: #fff;
     background: var(--main-color);
     cursor: pointer;
