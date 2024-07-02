@@ -52,6 +52,10 @@ body {
     cursor: pointer;
 }
 
+.btn:hover{
+
+}
+
 .header {
     background: var(--bg);
     display: flex;
