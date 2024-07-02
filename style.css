@@ -156,3 +156,7 @@ body {
     color: var(--black);
     padding-bottom: .5rem;
 }
+
+.header .cart-items-container .cart-items .content .price{
+    
+}
