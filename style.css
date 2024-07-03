@@ -217,3 +217,10 @@ html{
 }
 
 }
+
+@media (max-width:991px){
+
+    #menu-btn{
+        display: inline-block;
+    }
+}
