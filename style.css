@@ -221,7 +221,7 @@ body {
         top: 100%;
         right: 0;
         background: #fff;
-        width: 30rem;
+        background: 30rem;
     }
 
     .header .navbar a {
@@ -231,4 +231,7 @@ body {
         font-size: 2rem;
     }
 
+    .header {
+        padding: 1.5rem 2rem;
+    }
 }
