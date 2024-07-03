@@ -135,7 +135,7 @@ letter-spacing: .2rem;
 .header .cart-items-container{
     position: absolute;
     top: 100%;
-    right: 0;
+    right: -100%;
     height: calc(100vh - 9.5rem);
     width: 35rem;
     background: #fff;
@@ -181,3 +181,28 @@ letter-spacing: .2rem;
     width: 100%;
     text-align: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*media queries*/
