@@ -1,5 +1,2 @@
-14:00
-check icons
-search bar
-image cross
+15.22
 
