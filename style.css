@@ -206,31 +206,13 @@ letter-spacing: .2rem;
 
 
 /*media queries*/
-@media (max-width:991px){
-
-html{
-    font-size: 55%;
-}
-
-.header{
-    padding: 1.5rem 2rem;
-}
-
-}
-
-@media (max-width:991px){
-
-    #menu-btn{
-        display: inline-block;
+@media (max-width: 991px) {
+    html {
+        font-size: 55%;
     }
 
-    .header .navbar{
-        position: absolute;
-        top: 100%;
-        right: 0;
-        background: #fff;
-        background: 30rem;
+    .header {
+        padding: 1.5rem 2rem;
     }
 
-    
 }
