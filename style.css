@@ -225,6 +225,12 @@ body {
        height: calc(100vh - 9.5rem);
     }
 
+.header .navbar:active{
+
+}
+
+
+
     .header .navbar a {
         color: var(--black);
         display: block;
