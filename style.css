@@ -115,6 +115,10 @@ body {
     transform-origin: top;
 }
 
+.header .search-form.active {
+    transform: scaleY(1);
+}
+
 .header .search-form input {
     height: 100%;
     width: 100%;
@@ -143,9 +147,10 @@ body {
     width: 35rem;
     background: #fff;
     padding: 0 1.5rem;
+    transition: .3s;
 }
 
-.header .cart-items-container .active{
+.header .cart-items-container.active {
     right: 0;
 }
 
@@ -190,32 +195,8 @@ body {
     text-align: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*media queries*/
+/* Media queries */
 @media (max-width: 991px) {
-
     #menu-btn {
         display: inline-block;
     }
@@ -223,17 +204,16 @@ body {
     .header .navbar {
         position: absolute;
         top: 100%;
-        right: -100;
+        right: -100%;
         background: #fff;
         width: 30rem;
         height: calc(100vh - 9.5rem);
+        transition: .3s;
     }
 
-    .header .navbar .active {
+    .header .navbar.active {
         right: 0;
     }
-
-
 
     .header .navbar a {
         color: var(--black);
@@ -242,6 +222,4 @@ body {
         padding: .5rem;
         font-size: 2rem;
     }
-
-   
 }
