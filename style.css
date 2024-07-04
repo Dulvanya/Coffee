@@ -145,6 +145,10 @@ body {
     padding: 0 1.5rem;
 }
 
+.header .cart-items-container .active{
+    right: 0;
+}
+
 .header .cart-items-container .cart-items {
     position: relative;
     margin: 2rem 0;
@@ -225,7 +229,9 @@ body {
         height: calc(100vh - 9.5rem);
     }
 
-    .header .navbar:active {}
+    .header .navbar .active {
+        right: 0;
+    }
 
 
 
@@ -237,7 +243,5 @@ body {
         font-size: 2rem;
     }
 
-    .header {
-        padding: 1.5rem 2rem;
-    }
+   
 }
