@@ -279,6 +279,7 @@ color: #fff;
 .home{
     background-position: left;
     justify-content: center;
+    text-align: center;
 }
 
 .home .content h3{
