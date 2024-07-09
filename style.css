@@ -197,7 +197,12 @@ body {
 
 
 .home{
-    
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url();
+    background-size: cover;
+    background-position: center;
 }
 
 
