@@ -18,4 +18,5 @@ document.querySelector('#cart-btn').onclick = () =>{
 window.onscroll = () =>{
     navbar.classList.remove('active');
     searchForms.classList.remove('active');
+    cartItems.classList.remove('active'); 
 }
