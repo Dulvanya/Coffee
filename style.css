@@ -277,7 +277,8 @@ color: #fff;
         padding: 2rem ;
     }
 .home{
-    
+    background-position: left;
+    justify-content: center;
 }
 
 }
