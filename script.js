@@ -17,6 +17,8 @@ let cartItems = document.querySelector('.cart-items-container');
 
 document.querySelector('#cart-btn').onclick = () =>{
     cartItems.classList.toggle('active');
+    navbar.classList.remove('active');
+    searchForms.classList.remove('active');
 }   
 
 window.onscroll = () =>{
