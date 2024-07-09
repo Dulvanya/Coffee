@@ -258,4 +258,8 @@ section{
     html {
         font-size: 50%;
     }
+
+    section{
+        padding: 2rem ;
+    }
 }
