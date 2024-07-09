@@ -9,6 +9,8 @@ document.querySelector('#menu-btn').onclick = () =>{
 let searchForms = document.querySelector('.search-form');
 document.querySelector('#search-btn').onclick = () =>{
     searchForms.classList.toggle('active');
+    navbar.classList.remove('active');
+    cartItems.classList.remove('active'); 
 }   
 
 let cartItems = document.querySelector('.cart-items-container');
