@@ -43,6 +43,10 @@ body {
     background: var(--bg);
 }
 
+section{
+    padding: 2rem 7%;
+}
+
 .btn {
     margin-top: 1rem;
     display: inline-block;
