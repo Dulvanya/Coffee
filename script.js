@@ -1,28 +1,28 @@
 let navbar = document.querySelector('.navbar');
 
-document.querySelector('#menu-btn').onclick = () =>{
+document.querySelector('#menu-btn').onclick = () => {
     navbar.classList.toggle('active');
     searchForms.classList.remove('active');
-    cartItems.classList.remove('active'); 
+    cartItems.classList.remove('active');
 }
 
 let searchForms = document.querySelector('.search-form');
-document.querySelector('#search-btn').onclick = () =>{
+document.querySelector('#search-btn').onclick = () => {
     searchForms.classList.toggle('active');
     navbar.classList.remove('active');
-    cartItems.classList.remove('active'); 
-}   
+    cartItems.classList.remove('active');
+}
 
 let cartItems = document.querySelector('.cart-items-container');
 
-document.querySelector('#cart-btn').onclick = () =>{
+document.querySelector('#cart-btn').onclick = () => {
     cartItems.classList.toggle('active');
     navbar.classList.remove('active');
     searchForms.classList.remove('active');
-}   
+}
 
-window.onscroll = () =>{
+window.onscroll = () => {
     navbar.classList.remove('active');
     searchForms.classList.remove('active');
-    cartItems.classList.remove('active'); 
+    cartItems.classList.remove('active');
 }
