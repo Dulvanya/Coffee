@@ -223,15 +223,13 @@ body {
         font-size: 2rem;
     }
 
-.header .search-form{
-    width: 90%;
-    right: 2rem;
-}
+    .header .search-form {
+        width: 90%;
+        right: 2rem;
+    }
 
 
-    html{
+    html {
         font-size: 50%;
     }
 }
-
-
