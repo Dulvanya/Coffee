@@ -56,7 +56,8 @@ section{
 }
 
 .heading span{
-    
+    color:var(--main-color) ;
+    text-transform: uppercase;
 }
 
 .btn {
