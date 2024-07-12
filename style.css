@@ -48,7 +48,9 @@ section{
 }
 
 .heading{
-    
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
 }
 
 .btn {
