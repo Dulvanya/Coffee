@@ -273,26 +273,26 @@ section {
 }
 
 
-.menu .box-container{
-display: grid;
-grid-template-columns: repeat(auto-fit,mimax(30rem, 1fr));
-gap: 1.5rem;
+.menu .box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, mimax(30rem, 1fr));
+    gap: 1.5rem;
 }
 
-.menu .box-container .box{
+.menu .box-container .box {
     padding: 5rem;
     text-align: center;
     border: var(--border);
 }
 
-.menu .box-container .box img{
+.menu .box-container .box img {
     height: 10rem;
 }
 
-.menu .box-container .box h3{
-color: #fff;
-font-size: 2rem;
-padding: 1rem 0;
+.menu .box-container .box h3 {
+    color: #fff;
+    font-size: 2rem;
+    padding: 1rem 0;
 }
 
 
