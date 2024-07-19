@@ -310,6 +310,10 @@ section {
     background: #fff;
 }
 
+.menu .box-container .box:hover > *{
+    
+}
+
 
 
 
