@@ -315,7 +315,9 @@ section {
 }
 
 .products .box-container{
-    
+    display: grid;
+    grid-template-columns: repeat(auto-fit, mimax(30rem, 1fr));
+    gap: 1.5rem;
 }
 
 
