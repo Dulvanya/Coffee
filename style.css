@@ -275,7 +275,7 @@ section {
 
 .menu .box-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, mimax(30rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
     gap: 1.5rem;
 }
 
@@ -337,7 +337,7 @@ section {
 }
 
 .products .box-container .box .icons a:hover{
-    
+    background: var(--main-color);
 }
 
 
