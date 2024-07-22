@@ -321,7 +321,9 @@ section {
 }
 
 .products .box-container .box{
-    
+    text-align: center;
+    border: var(--border);
+    padding: 2rem;
 }
 
 
