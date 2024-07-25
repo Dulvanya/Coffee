@@ -376,7 +376,9 @@ section {
 }
 
 .review .box-container .box{
-    
+    border: var(--border);
+    text-align: center;
+    padding: 3rem 2rem;
 }
 
 
