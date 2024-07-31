@@ -424,6 +424,9 @@ object-fit: cover;
 flex: 1 1 45rem;
 }
 
+.contact .row .form h3{
+    
+}
 
 /* Media queries */
 @media (max-width: 991px) {
