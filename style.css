@@ -432,7 +432,7 @@ color: #fff;
 }
 
 .contact .row form .inputBox{
-    
+    display: flex;
 }
 
 
