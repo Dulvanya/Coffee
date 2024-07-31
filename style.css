@@ -407,7 +407,11 @@ section {
 }
 
 .contact .row{
-    
+    display: flex;
+    align-items: center;
+    background: var(--black);
+    flex-wrap: wrap;
+    gap: 1rem;
 }
 
 
