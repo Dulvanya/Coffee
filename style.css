@@ -422,10 +422,12 @@ object-fit: cover;
 
 .contact .row .form{
 flex: 1 1 45rem;
+padding: 5rem 2rem;
+text-align: center;
 }
 
 .contact .row .form h3{
-    
+
 }
 
 /* Media queries */
