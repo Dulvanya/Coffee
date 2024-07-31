@@ -415,11 +415,13 @@ section {
 }
 
 .contact .row .map{
-
+flex: 1 1 45rem;
+width: 100%;
+object-fit: cover;
 }
 
 .contact .row .form{
-    
+
 }
 
 
