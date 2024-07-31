@@ -441,7 +441,9 @@ section {
 }
 
 .contact .row form .inputBox span{
-    
+    color: #fff;
+    font-size: 2rem;
+    padding-left: 2rem;
 }
 
 
