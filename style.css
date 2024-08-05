@@ -473,7 +473,7 @@ section {
     width: 100%;
 }
 
-.blogs .box-container .box .image .img{
+.blogs .box-container .box .image img{
     height: 100%;
     object-fit: cover;
     width: 100%;
