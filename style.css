@@ -480,7 +480,7 @@ section {
 }
 
 .blogs .box-container .box:hover .image img{
-
+transform: scale(1.2);
 }
 
 
