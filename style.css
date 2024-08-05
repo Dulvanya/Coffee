@@ -464,7 +464,7 @@ section {
 }
 
 .blogs .box-container .box{
-    
+    border: var(--border);
 }
 
 
