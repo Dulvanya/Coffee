@@ -495,7 +495,7 @@ color: #fff
 
 
 .blogs .box-container .box .content .title:hover{
-    
+    color: var(--main-color);
 }
 
 
