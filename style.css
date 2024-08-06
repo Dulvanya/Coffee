@@ -528,6 +528,7 @@ section {
     font-size: 2rem;
     color: #fff;
     border: var(--border);
+    margin: .3rem;
 }
 
 
