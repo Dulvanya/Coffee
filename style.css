@@ -522,7 +522,12 @@ section {
 }
 
 .footer .share a{
-    
+    height: 5rem;
+    width: 5rem;
+    line-height: 5rem;
+    font-size: 2rem;
+    color: #fff;
+    border: var(--border);
 }
 
 
