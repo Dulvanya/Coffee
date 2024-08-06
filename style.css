@@ -506,7 +506,10 @@ color: #fff
 }
 
 .blogs .box-container .box .content p{
-    
+    font-size: 1.6rem;
+    line-height: 1.8;
+    color: #ccc;
+    padding: 1rem 0;
 }
 
 
