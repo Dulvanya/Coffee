@@ -517,11 +517,11 @@ section {
     text-align: center;
 }
 
-.footer .share{
+.footer .shar {
     padding: 1rem 0;
 }
 
-.footer .share a{
+.footer .shar a {
     height: 5rem;
     width: 5rem;
     line-height: 5rem;
@@ -532,7 +532,7 @@ section {
     border-radius: 50%;
 }
 
-.footer .share a:hover{
+.footer .shar a:hover {
     background-color: var(--main-color);
 }
 
