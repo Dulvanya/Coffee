@@ -529,6 +529,7 @@ section {
     color: #fff;
     border: var(--border);
     margin: .3rem;
+    border-radius: 50%;
 }
 
 
