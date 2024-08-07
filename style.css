@@ -544,7 +544,11 @@ section {
     gap: 1rem;
 }
 
-
+.footer .links a{
+    padding: 7rem 2rem;
+    color: #fff;
+    border: var(--border);
+}
 
 
 
