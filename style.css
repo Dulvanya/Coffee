@@ -551,7 +551,7 @@ section {
 }
 
 .footer .links a:hover{
-    
+    color: var(--main-color);
 }
 
 
