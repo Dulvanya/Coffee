@@ -551,10 +551,12 @@ section {
 }
 
 .footer .links a:hover{
-    color: var(--main-color);
+    background-color: var(--main-color);
 }
 
+.footer .credit{
 
+}
 
 
 
