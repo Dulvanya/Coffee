@@ -453,9 +453,11 @@ section {
     color: #fff;
     text-transform: none;
     background: none;
-    border: none;
-    outline: none;
+    border: 1;
+    outline: burlywood;
 }
+
+
 
 .blogs .box-container {
     display: grid;
