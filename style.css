@@ -536,7 +536,7 @@ section {
     background-color: var(--main-color);
 }
 
-.footer .links{
+.footer .links {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -544,24 +544,24 @@ section {
     gap: 1rem;
 }
 
-.footer .links a{
+.footer .links a {
     padding: 7rem 2rem;
     color: #fff;
     border: var(--border);
 }
 
-.footer .links a:hover{
+.footer .links a:hover {
     background-color: var(--main-color);
 }
 
-.footer .credit{
-font-size: 2rem;
-color: #fff;
-font-weight: lighter;
-padding: 1.5rem;
+.footer .credit {
+    font-size: 2rem;
+    color: #fff;
+    font-weight: lighter;
+    padding: 1.5rem;
 }
 
-.footer .credit span{
+.footer .credit span {
     color: var(--main-color);
 }
 
