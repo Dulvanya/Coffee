@@ -555,7 +555,10 @@ section {
 }
 
 .footer .credit{
-
+font-size: 2rem;
+color: #fff;
+font-weight: lighter;
+padding: 1.5rem;
 }
 
 
