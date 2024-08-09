@@ -545,7 +545,7 @@ section {
 }
 
 .footer .links a {
-    padding: 7rem 2rem;
+    padding: 1rem 2rem;
     color: #fff;
     border: var(--border);
 }
